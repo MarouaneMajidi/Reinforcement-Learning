@@ -26,3 +26,15 @@ Implement the **Q-learning** algorithm.
 [Livrable_3_Majidi_Marouane.ipynb](Task1/Livrable_3_Majidi_Marouane.ipynb)
 
 ---
+
+
+## **TASK 2**
+
+Continuing with the **Grid World**, we now make the environment more **generalized** by adding parameters that make the **obstacles dynamic** (able to move), as well as allowing the **goal** (terminal state) to change position.
+
+We also implement the **Monte Carlo algorithm** and visualize how the agent’s behavior evolves with respect to the **grid size**.
+
+Additionally, we activate the **dynamic goal** feature to test whether the agent truly understands the concept of the goal.  
+We observe that it doesn’t fully learn what a goal is — highlighting the need to explore **other reinforcement learning algorithms**.
+
+[Livrable_Majidi_Marouane.ipynb](Task2/Livrable_Majidi_Marouane.ipynb)
