@@ -6,4 +6,5 @@ This repository contains all course-related work developed throughout the semest
 ## TASK 1
 
 Simulate a Grid World environment, including reward dynamics and policy visualization.
+
 [Livrable_1_Majidi_Marouane.ipynb](Livrable_1_Majidi_Marouane.ipynb)
