@@ -28,5 +28,5 @@ Add the **GridWorld**, **policy iteration**, and **value iteration** implementat
 ---
 
 ### **Notebook 3**  
-Implement the **Q-learning** algorithm to derive the optimal policy through reinforcement learning.  
+Implement the **Q-learning** algorithm. 
 [Livrable_3_Majidi_Marouane.ipynb](Task1/Livrable_3_Majidi_Marouane.ipynb)
