@@ -7,4 +7,4 @@ This repository contains all course-related work developed throughout the semest
 
 Simulate a Grid World environment, including reward dynamics and policy visualization.
 
-[Livrable_1_Majidi_Marouane.ipynb](Livrable_1_Majidi_Marouane.ipynb)
+[Livrable_1_Majidi_Marouane.ipynb](Task1/Livrable_1_Majidi_Marouane.ipynb)
