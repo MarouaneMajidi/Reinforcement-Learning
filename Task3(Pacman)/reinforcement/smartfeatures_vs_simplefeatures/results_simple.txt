@@ -1,0 +1,1257 @@
+Beginning 4000 episodes of Training
+Reinforcement Learning Status:
+	Completed 100 out of 4000 training episodes
+	Average Rewards over all training: 506.53
+	Average Rewards for last 100 episodes: 506.53
+	Episode took 0.81 seconds
+Reinforcement Learning Status:
+	Completed 200 out of 4000 training episodes
+	Average Rewards over all training: 486.33
+	Average Rewards for last 100 episodes: 466.13
+	Episode took 0.78 seconds
+Reinforcement Learning Status:
+	Completed 300 out of 4000 training episodes
+	Average Rewards over all training: 479.50
+	Average Rewards for last 100 episodes: 465.85
+	Episode took 0.86 seconds
+Reinforcement Learning Status:
+	Completed 400 out of 4000 training episodes
+	Average Rewards over all training: 471.06
+	Average Rewards for last 100 episodes: 445.71
+	Episode took 0.78 seconds
+Reinforcement Learning Status:
+	Completed 500 out of 4000 training episodes
+	Average Rewards over all training: 469.96
+	Average Rewards for last 100 episodes: 465.59
+	Episode took 0.81 seconds
+Reinforcement Learning Status:
+	Completed 600 out of 4000 training episodes
+	Average Rewards over all training: 472.61
+	Average Rewards for last 100 episodes: 485.83
+	Episode took 0.80 seconds
+Reinforcement Learning Status:
+	Completed 700 out of 4000 training episodes
+	Average Rewards over all training: 470.17
+	Average Rewards for last 100 episodes: 455.54
+	Episode took 0.75 seconds
+Reinforcement Learning Status:
+	Completed 800 out of 4000 training episodes
+	Average Rewards over all training: 474.69
+	Average Rewards for last 100 episodes: 506.31
+	Episode took 0.80 seconds
+Reinforcement Learning Status:
+	Completed 900 out of 4000 training episodes
+	Average Rewards over all training: 474.80
+	Average Rewards for last 100 episodes: 475.75
+	Episode took 0.88 seconds
+Reinforcement Learning Status:
+	Completed 1000 out of 4000 training episodes
+	Average Rewards over all training: 474.95
+	Average Rewards for last 100 episodes: 476.30
+	Episode took 0.91 seconds
+Reinforcement Learning Status:
+	Completed 1100 out of 4000 training episodes
+	Average Rewards over all training: 477.80
+	Average Rewards for last 100 episodes: 506.29
+	Episode took 0.86 seconds
+Reinforcement Learning Status:
+	Completed 1200 out of 4000 training episodes
+	Average Rewards over all training: 475.95
+	Average Rewards for last 100 episodes: 455.57
+	Episode took 1.28 seconds
+Reinforcement Learning Status:
+	Completed 1300 out of 4000 training episodes
+	Average Rewards over all training: 474.38
+	Average Rewards for last 100 episodes: 455.51
+	Episode took 1.35 seconds
+Reinforcement Learning Status:
+	Completed 1400 out of 4000 training episodes
+	Average Rewards over all training: 474.51
+	Average Rewards for last 100 episodes: 476.17
+	Episode took 0.99 seconds
+Reinforcement Learning Status:
+	Completed 1500 out of 4000 training episodes
+	Average Rewards over all training: 472.57
+	Average Rewards for last 100 episodes: 445.42
+	Episode took 0.87 seconds
+Reinforcement Learning Status:
+	Completed 1600 out of 4000 training episodes
+	Average Rewards over all training: 471.52
+	Average Rewards for last 100 episodes: 455.89
+	Episode took 0.92 seconds
+Reinforcement Learning Status:
+	Completed 1700 out of 4000 training episodes
+	Average Rewards over all training: 473.60
+	Average Rewards for last 100 episodes: 506.73
+	Episode took 0.90 seconds
+Reinforcement Learning Status:
+	Completed 1800 out of 4000 training episodes
+	Average Rewards over all training: 475.99
+	Average Rewards for last 100 episodes: 516.66
+	Episode took 0.84 seconds
+Reinforcement Learning Status:
+	Completed 1900 out of 4000 training episodes
+	Average Rewards over all training: 477.60
+	Average Rewards for last 100 episodes: 506.69
+	Episode took 0.85 seconds
+Reinforcement Learning Status:
+	Completed 2000 out of 4000 training episodes
+	Average Rewards over all training: 477.53
+	Average Rewards for last 100 episodes: 476.16
+	Episode took 1.02 seconds
+Reinforcement Learning Status:
+	Completed 2100 out of 4000 training episodes
+	Average Rewards over all training: 478.89
+	Average Rewards for last 100 episodes: 506.15
+	Episode took 1.00 seconds
+Reinforcement Learning Status:
+	Completed 2200 out of 4000 training episodes
+	Average Rewards over all training: 478.32
+	Average Rewards for last 100 episodes: 466.33
+	Episode took 0.83 seconds
+Reinforcement Learning Status:
+	Completed 2300 out of 4000 training episodes
+	Average Rewards over all training: 478.68
+	Average Rewards for last 100 episodes: 486.46
+	Episode took 0.81 seconds
+Reinforcement Learning Status:
+	Completed 2400 out of 4000 training episodes
+	Average Rewards over all training: 477.75
+	Average Rewards for last 100 episodes: 456.47
+	Episode took 0.82 seconds
+Reinforcement Learning Status:
+	Completed 2500 out of 4000 training episodes
+	Average Rewards over all training: 478.49
+	Average Rewards for last 100 episodes: 496.29
+	Episode took 0.88 seconds
+Reinforcement Learning Status:
+	Completed 2600 out of 4000 training episodes
+	Average Rewards over all training: 478.40
+	Average Rewards for last 100 episodes: 476.15
+	Episode took 0.83 seconds
+Reinforcement Learning Status:
+	Completed 2700 out of 4000 training episodes
+	Average Rewards over all training: 478.32
+	Average Rewards for last 100 episodes: 476.14
+	Episode took 0.87 seconds
+Reinforcement Learning Status:
+	Completed 2800 out of 4000 training episodes
+	Average Rewards over all training: 477.88
+	Average Rewards for last 100 episodes: 466.09
+	Episode took 0.81 seconds
+Reinforcement Learning Status:
+	Completed 2900 out of 4000 training episodes
+	Average Rewards over all training: 478.17
+	Average Rewards for last 100 episodes: 486.32
+	Episode took 0.87 seconds
+Reinforcement Learning Status:
+	Completed 3000 out of 4000 training episodes
+	Average Rewards over all training: 478.09
+	Average Rewards for last 100 episodes: 475.57
+	Episode took 1.40 seconds
+Reinforcement Learning Status:
+	Completed 3100 out of 4000 training episodes
+	Average Rewards over all training: 479.66
+	Average Rewards for last 100 episodes: 526.78
+	Episode took 0.88 seconds
+Reinforcement Learning Status:
+	Completed 3200 out of 4000 training episodes
+	Average Rewards over all training: 479.22
+	Average Rewards for last 100 episodes: 465.61
+	Episode took 0.89 seconds
+Reinforcement Learning Status:
+	Completed 3300 out of 4000 training episodes
+	Average Rewards over all training: 479.73
+	Average Rewards for last 100 episodes: 496.23
+	Episode took 0.90 seconds
+Reinforcement Learning Status:
+	Completed 3400 out of 4000 training episodes
+	Average Rewards over all training: 479.93
+	Average Rewards for last 100 episodes: 486.37
+	Episode took 0.84 seconds
+Reinforcement Learning Status:
+	Completed 3500 out of 4000 training episodes
+	Average Rewards over all training: 480.68
+	Average Rewards for last 100 episodes: 506.34
+	Episode took 0.85 seconds
+Reinforcement Learning Status:
+	Completed 3600 out of 4000 training episodes
+	Average Rewards over all training: 480.56
+	Average Rewards for last 100 episodes: 476.38
+	Episode took 0.89 seconds
+Reinforcement Learning Status:
+	Completed 3700 out of 4000 training episodes
+	Average Rewards over all training: 480.17
+	Average Rewards for last 100 episodes: 465.80
+	Episode took 0.86 seconds
+Reinforcement Learning Status:
+	Completed 3800 out of 4000 training episodes
+	Average Rewards over all training: 481.40
+	Average Rewards for last 100 episodes: 526.94
+	Episode took 0.85 seconds
+Reinforcement Learning Status:
+	Completed 3900 out of 4000 training episodes
+	Average Rewards over all training: 482.04
+	Average Rewards for last 100 episodes: 506.52
+	Episode took 0.86 seconds
+Reinforcement Learning Status:
+	Completed 4000 out of 4000 training episodes
+	Average Rewards over all training: 482.91
+	Average Rewards for last 100 episodes: 516.85
+	Episode took 0.85 seconds
+Training Done (turning off epsilon and alpha)
+---------------------------------------------
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 519
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Reinforcement Learning Status:
+	Completed 100 test episodes
+	Average Rewards over testing: 527.34
+	Average Rewards for last 100 episodes: 527.34
+	Episode took 0.85 seconds
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Reinforcement Learning Status:
+	Completed 200 test episodes
+	Average Rewards over testing: 527.43
+	Average Rewards for last 100 episodes: 527.52
+	Episode took 1.00 seconds
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Reinforcement Learning Status:
+	Completed 300 test episodes
+	Average Rewards over testing: 527.39
+	Average Rewards for last 100 episodes: 527.32
+	Episode took 0.85 seconds
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 521
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Reinforcement Learning Status:
+	Completed 400 test episodes
+	Average Rewards over testing: 527.50
+	Average Rewards for last 100 episodes: 527.80
+	Episode took 0.79 seconds
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 521
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Reinforcement Learning Status:
+	Completed 500 test episodes
+	Average Rewards over testing: 527.49
+	Average Rewards for last 100 episodes: 527.46
+	Episode took 0.84 seconds
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Reinforcement Learning Status:
+	Completed 600 test episodes
+	Average Rewards over testing: 527.46
+	Average Rewards for last 100 episodes: 527.34
+	Episode took 0.83 seconds
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Reinforcement Learning Status:
+	Completed 700 test episodes
+	Average Rewards over testing: 527.47
+	Average Rewards for last 100 episodes: 527.54
+	Episode took 0.82 seconds
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Reinforcement Learning Status:
+	Completed 800 test episodes
+	Average Rewards over testing: 527.47
+	Average Rewards for last 100 episodes: 527.46
+	Episode took 0.90 seconds
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Reinforcement Learning Status:
+	Completed 900 test episodes
+	Average Rewards over testing: 527.49
+	Average Rewards for last 100 episodes: 527.66
+	Episode took 0.83 seconds
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 523
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 527
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 529
+Pacman emerges victorious! Score: 525
+Pacman emerges victorious! Score: 527
+Reinforcement Learning Status:
+	Completed 1000 test episodes
+	Average Rewards over testing: 527.46
+	Average Rewards for last 100 episodes: 527.14
+	Episode took 0.86 seconds
+Average Score: 527.458
+Scores:        527.0, 525.0, 529.0, 525.0, 527.0, 529.0, 527.0, 525.0, 529.0, 525.0, 529.0, 529.0, 527.0, 529.0, 529.0, 529.0, 527.0, 529.0, 523.0, 529.0, 527.0, 525.0, 529.0, 523.0, 527.0, 529.0, 529.0, 525.0, 529.0, 529.0, 527.0, 529.0, 529.0, 527.0, 527.0, 527.0, 527.0, 529.0, 525.0, 527.0, 527.0, 529.0, 527.0, 527.0, 529.0, 529.0, 527.0, 529.0, 527.0, 527.0, 527.0, 529.0, 529.0, 529.0, 529.0, 527.0, 527.0, 525.0, 529.0, 527.0, 525.0, 527.0, 519.0, 527.0, 529.0, 529.0, 527.0, 529.0, 529.0, 525.0, 525.0, 527.0, 529.0, 529.0, 527.0, 527.0, 529.0, 529.0, 523.0, 529.0, 527.0, 529.0, 525.0, 529.0, 529.0, 523.0, 527.0, 527.0, 529.0, 529.0, 527.0, 527.0, 527.0, 523.0, 529.0, 529.0, 527.0, 527.0, 525.0, 529.0, 525.0, 529.0, 529.0, 525.0, 529.0, 529.0, 525.0, 527.0, 527.0, 529.0, 529.0, 529.0, 525.0, 527.0, 529.0, 527.0, 527.0, 525.0, 527.0, 529.0, 529.0, 529.0, 529.0, 525.0, 527.0, 529.0, 527.0, 529.0, 529.0, 527.0, 523.0, 527.0, 527.0, 529.0, 525.0, 527.0, 529.0, 525.0, 523.0, 525.0, 529.0, 527.0, 525.0, 529.0, 527.0, 529.0, 529.0, 529.0, 529.0, 525.0, 529.0, 523.0, 529.0, 529.0, 529.0, 527.0, 527.0, 529.0, 529.0, 527.0, 529.0, 529.0, 525.0, 529.0, 527.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 523.0, 525.0, 529.0, 529.0, 529.0, 525.0, 529.0, 529.0, 527.0, 529.0, 527.0, 529.0, 529.0, 527.0, 527.0, 527.0, 527.0, 529.0, 527.0, 525.0, 529.0, 527.0, 523.0, 529.0, 529.0, 529.0, 527.0, 527.0, 527.0, 525.0, 529.0, 527.0, 527.0, 523.0, 529.0, 523.0, 525.0, 529.0, 525.0, 529.0, 527.0, 527.0, 527.0, 525.0, 527.0, 529.0, 527.0, 527.0, 529.0, 527.0, 529.0, 529.0, 529.0, 525.0, 525.0, 529.0, 523.0, 529.0, 527.0, 529.0, 525.0, 527.0, 527.0, 529.0, 529.0, 527.0, 525.0, 527.0, 529.0, 525.0, 529.0, 527.0, 529.0, 525.0, 525.0, 527.0, 527.0, 529.0, 529.0, 529.0, 527.0, 529.0, 529.0, 529.0, 529.0, 527.0, 527.0, 525.0, 527.0, 529.0, 523.0, 529.0, 525.0, 529.0, 527.0, 527.0, 523.0, 529.0, 529.0, 529.0, 529.0, 529.0, 527.0, 529.0, 525.0, 529.0, 527.0, 527.0, 527.0, 527.0, 529.0, 523.0, 529.0, 527.0, 529.0, 529.0, 527.0, 529.0, 527.0, 527.0, 527.0, 529.0, 529.0, 527.0, 529.0, 527.0, 529.0, 527.0, 525.0, 527.0, 529.0, 529.0, 529.0, 527.0, 529.0, 529.0, 529.0, 527.0, 527.0, 529.0, 529.0, 529.0, 529.0, 529.0, 527.0, 529.0, 527.0, 529.0, 525.0, 527.0, 527.0, 529.0, 529.0, 527.0, 529.0, 527.0, 525.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 527.0, 529.0, 529.0, 527.0, 525.0, 525.0, 527.0, 529.0, 529.0, 529.0, 529.0, 527.0, 529.0, 525.0, 529.0, 527.0, 527.0, 521.0, 529.0, 529.0, 529.0, 527.0, 527.0, 527.0, 525.0, 527.0, 529.0, 529.0, 527.0, 529.0, 529.0, 527.0, 529.0, 529.0, 527.0, 527.0, 527.0, 529.0, 527.0, 527.0, 527.0, 529.0, 527.0, 525.0, 529.0, 529.0, 529.0, 525.0, 527.0, 527.0, 529.0, 527.0, 529.0, 529.0, 527.0, 529.0, 529.0, 523.0, 529.0, 529.0, 529.0, 529.0, 527.0, 529.0, 525.0, 527.0, 523.0, 525.0, 525.0, 529.0, 529.0, 527.0, 529.0, 527.0, 525.0, 529.0, 529.0, 527.0, 525.0, 529.0, 525.0, 527.0, 529.0, 529.0, 529.0, 525.0, 529.0, 527.0, 527.0, 529.0, 527.0, 525.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 527.0, 525.0, 527.0, 525.0, 525.0, 529.0, 529.0, 527.0, 529.0, 527.0, 527.0, 529.0, 527.0, 527.0, 527.0, 527.0, 527.0, 529.0, 525.0, 525.0, 529.0, 527.0, 529.0, 529.0, 527.0, 529.0, 527.0, 529.0, 523.0, 529.0, 529.0, 527.0, 529.0, 529.0, 527.0, 529.0, 527.0, 521.0, 529.0, 527.0, 529.0, 527.0, 527.0, 529.0, 527.0, 529.0, 529.0, 525.0, 527.0, 529.0, 529.0, 523.0, 527.0, 529.0, 525.0, 527.0, 529.0, 529.0, 527.0, 529.0, 527.0, 529.0, 529.0, 529.0, 527.0, 527.0, 529.0, 525.0, 529.0, 527.0, 529.0, 529.0, 527.0, 527.0, 527.0, 523.0, 525.0, 525.0, 527.0, 523.0, 527.0, 527.0, 527.0, 529.0, 527.0, 529.0, 529.0, 525.0, 529.0, 527.0, 525.0, 529.0, 523.0, 529.0, 527.0, 529.0, 529.0, 527.0, 527.0, 527.0, 527.0, 527.0, 523.0, 527.0, 529.0, 527.0, 529.0, 525.0, 529.0, 529.0, 527.0, 527.0, 529.0, 527.0, 529.0, 527.0, 527.0, 527.0, 529.0, 527.0, 527.0, 529.0, 527.0, 529.0, 527.0, 529.0, 529.0, 529.0, 529.0, 529.0, 527.0, 523.0, 529.0, 529.0, 525.0, 527.0, 527.0, 527.0, 527.0, 529.0, 529.0, 529.0, 527.0, 527.0, 529.0, 527.0, 523.0, 523.0, 527.0, 527.0, 529.0, 523.0, 525.0, 529.0, 529.0, 529.0, 527.0, 527.0, 527.0, 529.0, 529.0, 527.0, 529.0, 529.0, 527.0, 529.0, 527.0, 527.0, 529.0, 527.0, 527.0, 529.0, 527.0, 529.0, 529.0, 529.0, 529.0, 527.0, 529.0, 529.0, 525.0, 529.0, 525.0, 525.0, 529.0, 527.0, 529.0, 527.0, 527.0, 529.0, 529.0, 527.0, 529.0, 523.0, 527.0, 529.0, 525.0, 529.0, 529.0, 527.0, 527.0, 525.0, 527.0, 529.0, 529.0, 529.0, 523.0, 529.0, 527.0, 527.0, 529.0, 527.0, 529.0, 523.0, 525.0, 525.0, 529.0, 525.0, 527.0, 527.0, 529.0, 527.0, 527.0, 529.0, 529.0, 529.0, 525.0, 529.0, 529.0, 525.0, 529.0, 529.0, 529.0, 529.0, 529.0, 525.0, 529.0, 523.0, 529.0, 527.0, 529.0, 527.0, 527.0, 529.0, 527.0, 527.0, 527.0, 527.0, 527.0, 527.0, 527.0, 525.0, 529.0, 529.0, 529.0, 529.0, 529.0, 527.0, 529.0, 527.0, 529.0, 527.0, 525.0, 529.0, 529.0, 525.0, 527.0, 529.0, 527.0, 529.0, 529.0, 525.0, 529.0, 529.0, 525.0, 529.0, 529.0, 529.0, 525.0, 529.0, 523.0, 523.0, 525.0, 527.0, 527.0, 527.0, 529.0, 527.0, 529.0, 527.0, 529.0, 525.0, 527.0, 527.0, 527.0, 529.0, 523.0, 529.0, 527.0, 527.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 527.0, 527.0, 529.0, 529.0, 529.0, 529.0, 529.0, 527.0, 527.0, 529.0, 527.0, 523.0, 527.0, 529.0, 523.0, 527.0, 527.0, 529.0, 527.0, 529.0, 527.0, 527.0, 527.0, 529.0, 529.0, 529.0, 527.0, 527.0, 529.0, 527.0, 529.0, 527.0, 527.0, 529.0, 529.0, 527.0, 529.0, 527.0, 525.0, 529.0, 529.0, 529.0, 527.0, 525.0, 529.0, 525.0, 529.0, 529.0, 525.0, 525.0, 529.0, 523.0, 527.0, 527.0, 527.0, 529.0, 527.0, 527.0, 527.0, 527.0, 529.0, 527.0, 529.0, 529.0, 529.0, 527.0, 527.0, 529.0, 529.0, 527.0, 523.0, 529.0, 529.0, 529.0, 527.0, 529.0, 529.0, 529.0, 527.0, 527.0, 527.0, 527.0, 529.0, 527.0, 523.0, 525.0, 529.0, 527.0, 529.0, 529.0, 527.0, 525.0, 529.0, 529.0, 527.0, 529.0, 527.0, 529.0, 529.0, 525.0, 527.0, 527.0, 527.0, 525.0, 529.0, 529.0, 527.0, 529.0, 525.0, 527.0, 525.0, 525.0, 527.0, 529.0, 529.0, 529.0, 529.0, 527.0, 529.0, 525.0, 529.0, 529.0, 527.0, 529.0, 529.0, 527.0, 523.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 527.0, 529.0, 527.0, 527.0, 527.0, 529.0, 527.0, 529.0, 527.0, 529.0, 527.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 529.0, 523.0, 527.0, 527.0, 523.0, 529.0, 527.0, 525.0, 525.0, 529.0, 529.0, 523.0, 527.0, 529.0, 529.0, 525.0, 523.0, 529.0, 527.0, 527.0, 529.0, 529.0, 527.0, 529.0, 525.0, 527.0, 529.0, 527.0, 525.0, 527.0, 529.0, 529.0, 529.0, 529.0, 529.0, 525.0, 525.0, 529.0, 529.0, 527.0, 529.0, 527.0, 527.0, 529.0, 525.0, 523.0, 525.0, 529.0, 523.0, 529.0, 527.0, 529.0, 529.0, 525.0, 525.0, 527.0, 527.0, 527.0, 527.0, 529.0, 523.0, 527.0, 529.0, 527.0, 527.0, 527.0, 525.0, 529.0, 527.0, 529.0, 527.0, 529.0, 525.0, 527.0, 527.0, 527.0, 525.0, 529.0, 529.0, 529.0, 527.0, 523.0, 525.0, 529.0, 527.0, 529.0, 527.0, 527.0, 529.0, 527.0, 529.0, 527.0, 527.0, 525.0, 529.0, 523.0, 527.0, 527.0, 529.0, 529.0, 527.0, 527.0, 523.0, 527.0, 527.0, 527.0, 529.0, 529.0, 529.0, 525.0, 527.0
+Win Rate:      1000/1000 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
