@@ -84,11 +84,13 @@ SimpleExtractor Features:
 - Whether a ghost is one step away
 
 SmartFeatures:
+
 Includes baseline features from SimpleExtractor:
 - bias: Constant base value
 - #-of-ghosts-1-step-away: Number of ghosts one step away
 - eats-food: 1 if Pacman eats food in this move
 - closest-food: Reciprocal of distance to the closest food
+- 
 and New / Strategic Features:
 - closest-scared-ghost: Reciprocal of distance to the nearest scared ghost
 - escape-routes: Number of legal moves from the next position (normalized)
