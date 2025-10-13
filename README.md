@@ -72,3 +72,36 @@ And then, we compared three models: the standard Q-Learning Agent, an ε-greedy 
 | Standard Q-Learning      | 2000 / 2000           | **216.05**         |
 
 [Check the Comparison Folder](./Task3(Pacman)/reinforcement/Comparison)
+
+--
+We then moved to creating custom features by implementing the SmartFeatures class in featureExtractors.py. 
+The goal was to see if we could improve upon the SimpleExtractor.
+
+SimpleExtractor Features:
+- Whether food will be eaten
+- Distance to the next food
+- Whether a ghost collision is imminent
+- Whether a ghost is one step away
+
+SmartFeatures:
+Includes baseline features from SimpleExtractor:
+- bias: Constant base value
+- #-of-ghosts-1-step-away: Number of ghosts one step away
+- eats-food: 1 if Pacman eats food in this move
+- closest-food: Reciprocal of distance to the closest food
+and New / Strategic Features:
+- closest-scared-ghost: Reciprocal of distance to the nearest scared ghost
+- escape-routes: Number of legal moves from the next position (normalized)
+- food-density: Number of food pellets in the movement direction within a given radius (normalized)
+- active-ghost-proximity: Sum of reciprocal distances to nearby active (non-scared) ghosts
+- capsule-proximity: Reciprocal of distance to the nearest capsule (power pellet)
+
+The results were not what we expected. Unfortunately, making the features more complex with SmartFeatures actually decreased performance compared to the simpler SimpleExtractor.
+
+| Feature Extractor | Training Episodes | Test Episodes | Average Score | Win Rate |
+|------------------|-----------------:|--------------:|---------------:|---------|
+| SimpleExtractor   | 4000             | 1000          | 527.46        | 100%     |
+| SmartFeatures     | 4000             | 1000          | 463.40        | 100%     |
+
+
+[Check the Comparison text files for each approach](./Task3(Pacman)/reinforcement/smartfaetures_vs_simplefeatures)
