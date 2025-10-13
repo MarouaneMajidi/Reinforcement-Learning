@@ -101,3 +101,79 @@ class SimpleExtractor(FeatureExtractor):
             features["closest-food"] = float(dist) / (walls.width * walls.height)
         features.divideAll(10.0)
         return features
+    
+        
+class SmartFeatures(FeatureExtractor):
+    """
+    Safe upgrade: keeps SimpleExtractor behavior but adds strategic features
+    that help Pacman perform better without breaking learning.
+    """
+
+    def getFeatures(self, state, action):
+        from util import manhattanDistance
+
+        features = util.Counter()
+        features["bias"] = 1.0
+
+        food = state.getFood()
+        walls = state.getWalls()
+        ghosts = state.getGhostPositions()
+        ghostStates = state.getGhostStates()
+        capsules = state.getCapsules()
+
+        x, y = state.getPacmanPosition()
+        dx, dy = Actions.directionToVector(action)
+        next_x, next_y = int(x + dx), int(y + dy)
+
+        # --- 1. Original SimpleExtractor features ---
+        features["#-of-ghosts-1-step-away"] = sum(
+            (next_x, next_y) in Actions.getLegalNeighbors(g, walls) for g in ghosts
+        )
+        if not features["#-of-ghosts-1-step-away"] and food[next_x][next_y]:
+            features["eats-food"] = 1.0
+        dist = closestFood((next_x, next_y), food, walls)
+        if dist is not None:
+            features["closest-food"] = float(dist) / (walls.width * walls.height)
+
+        # --- 2. New Features ---
+
+        # 2a. Closest Scared Ghost Distance (reciprocal)
+        scaredGhosts = [g for i, g in enumerate(ghosts) if ghostStates[i].scaredTimer > 0]
+        if scaredGhosts:
+            minDist = min(manhattanDistance((next_x, next_y), g) for g in scaredGhosts)
+            if minDist > 0:
+                features["closest-scared-ghost"] = 1.0 / minDist
+
+        # 2b. Escape Route Quality (number of legal moves)
+        legalNeighbors = Actions.getLegalNeighbors((next_x, next_y), walls)
+        features["escape-routes"] = len(legalNeighbors) / 4.0  # normalize to max 4
+
+        # 2c. Food Density in Movement Direction (radius=3)
+        radius = 3
+        foodCount = 0
+        for i in range(1, radius + 1):
+            fx, fy = next_x + int(dx * i), next_y + int(dy * i)
+            if 0 <= fx < food.width and 0 <= fy < food.height and not walls[fx][fy]:
+                if food[fx][fy]:
+                    foodCount += 1
+        features["food-density"] = foodCount / float(radius)
+
+        # 2d. Active Ghost Proximity Weighted (sum of reciprocal distances)
+        activeGhosts = [g for i, g in enumerate(ghosts) if ghostStates[i].scaredTimer == 0]
+        ghostProximity = 0.0
+        for g in activeGhosts:
+            dist = manhattanDistance((next_x, next_y), g)
+            if dist > 0:
+                ghostProximity += 1.0 / dist
+        features["active-ghost-proximity"] = ghostProximity
+
+        # 2e. Capsule Proximity (encourage heading toward power pellets)
+        if capsules:
+            minCapsuleDist = min(manhattanDistance((next_x, next_y), c) for c in capsules)
+            features["capsule-proximity"] = 1.0 / (minCapsuleDist + 1.0)
+        else:
+            features["capsule-proximity"] = 0.0
+
+        # --- Normalize all features ---
+        features.divideAll(10.0)
+        return features

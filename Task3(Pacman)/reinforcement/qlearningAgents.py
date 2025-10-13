@@ -160,7 +160,12 @@ class ApproximateQAgent(PacmanQAgent):
        should work as is.
     """
     def __init__(self, extractor='IdentityExtractor', **args):
-        self.featExtractor = util.lookup(extractor, globals())()
+        from featureExtractors import SmartFeatures
+        if extractor == 'SmartFeatures':
+            self.featExtractor = SmartFeatures()
+        else:
+            self.featExtractor = util.lookup(extractor, globals())()
+
         PacmanQAgent.__init__(self, **args)
         self.weights = util.Counter()
 
