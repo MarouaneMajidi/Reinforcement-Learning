@@ -69,4 +69,4 @@ And then, we compared three models: the standard Q-Learning Agent, an ε-greedy 
 | ε-Greedy Q-Learning      | 2000 / 2000           | **-170.89**        |
 | Standard Q-Learning      | 2000 / 2000           | **216.05**         |
 
-[Comparison Folder](./Task3(Pacman)/reinforcement/Comparison)
+[Check the Comparison Folder](./Task3(Pacman)/reinforcement/Comparison)
