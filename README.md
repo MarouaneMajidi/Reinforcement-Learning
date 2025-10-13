@@ -62,4 +62,11 @@ We implemented and tested different reinforcement learning agents by updating th
 --
 
 And then, we compared three models: the standard Q-Learning Agent, an ε-greedy Q-Learning Agent that balances exploration and exploitation, and an Approximate Q-Learning Agent that learns weights for state features to generalize across similar states.
+
+| **Agent Type**           | **Training Episodes** | **Average Reward** |
+|:-------------------------:|:---------------------:|:------------------:|
+| Approximate Q-Learning   | 2000 / 2000           | **441.40**         |
+| ε-Greedy Q-Learning      | 2000 / 2000           | **-170.89**        |
+| Standard Q-Learning      | 2000 / 2000           | **216.05**         |
+
 [Comparison Folder](./Task3(Pacman)/reinforcement/Comparison)
