@@ -47,3 +47,18 @@ we recognize the need for more advanced methods such as **Neural Network Q-Learn
 In this approach, the neural network learns a **general representation of the “goal”**, which demonstrates the **advantage of function approximation** over traditional tabular methods.  
 [Livrable_5_Majidi_Marouane.ipynb](Task2/NNQ-learning.ipynb)
 
+---
+
+## **TASK 3: Pacman**
+In this task, we solved the Pacman Reinforcement Learning Project (Berkeley Project 3).
+We implemented and tested different reinforcement learning agents by updating the following files:
+
+- valueIterationAgents.py
+- qlearningAgents.py
+- analysis.py
+
+[Check the Folder](./Task3(Pacman))
+
+
+And then, we compared three models: the standard Q-Learning Agent, an ε-greedy Q-Learning Agent that balances exploration and exploitation, and an Approximate Q-Learning Agent that learns weights for state features to generalize across similar states.
+[Comparison Folder](./Task3(Pacman)/reinforcement/Comparison)
