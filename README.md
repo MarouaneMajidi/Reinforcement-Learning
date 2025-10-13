@@ -57,8 +57,9 @@ We implemented and tested different reinforcement learning agents by updating th
 - qlearningAgents.py
 - analysis.py
 
-[Check the Folder](./Task3(Pacman))
+[Check the Folder](./Task3(Pacman)/reinforcement)
 
+--
 
 And then, we compared three models: the standard Q-Learning Agent, an ε-greedy Q-Learning Agent that balances exploration and exploitation, and an Approximate Q-Learning Agent that learns weights for state features to generalize across similar states.
 [Comparison Folder](./Task3(Pacman)/reinforcement/Comparison)
