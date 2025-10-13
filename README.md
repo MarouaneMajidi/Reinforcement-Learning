@@ -106,4 +106,4 @@ The results were not what we expected. Unfortunately, making the features more c
 | SmartFeatures     | 4000             | 1000          | 463.40        | 100%     |
 
 
-[Check the Comparison text files for each approach](./Task3(Pacman)/reinforcement/smartfaetures_vs_simplefeatures)
+[Check the Comparison text files for each approach](./Task3(Pacman)/reinforcement/smartfeatures_vs_simplefeatures)
