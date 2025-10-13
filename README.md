@@ -45,6 +45,7 @@ After observing the limitations of the algorithm when the goal position changes,
 we recognize the need for more advanced methods such as **Neural Network Q-Learning**.  
 
 In this approach, the neural network learns a **general representation of the “goal”**, which demonstrates the **advantage of function approximation** over traditional tabular methods.  
+
 [Livrable_5_Majidi_Marouane.ipynb](Task2/NNQ-learning.ipynb)
 
 ---
